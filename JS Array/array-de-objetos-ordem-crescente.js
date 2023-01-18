@@ -1,7 +1,7 @@
 /*Escreva uma função que recebe um array de objetos como argumento. Classifique a matriz pela propriedade b em ordem crescente. Retorne o array ordenado*/
 
 function myFunction(arr) {
-  arr.sort((a, b) => a.b > b.b)
+  arr.sort((a, b) => a.b - b.b)
   return arr
 }
 
