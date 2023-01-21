@@ -1,4 +1,5 @@
-/*Escreva uma função que receba um número (a) como argumento. Se a for um número inteiro (sem casa decimal), retorne verdadeiro. Caso contrário, retorne falso.
+/*Escreva uma função que receba um número (a) como argumento. Se a for um número inteiro (sem casa decimal), 
+retorne verdadeiro. Caso contrário, retorne falso.
 */ 
 
 function myFunction (a){
